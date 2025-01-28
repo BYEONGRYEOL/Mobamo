@@ -48,5 +48,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<!-- 갤러리 사용 권한 확인용-->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need access to your photo library to select images</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We need access to your camera to take photos</string>
+
 </dict>
 </plist>
